@@ -22,3 +22,37 @@
 | 패키지 관리 | Gradle (백엔드), npm (프론트엔드) |
 | 빌드 도구 | Gradle Wrapper, Next.js 빌드 명령어 |
 | 실행 방식 | 로컬에서 `npm run dev`, `gradlew bootRun`으로 실행 |
+
+## 2. 기술 스택
+- **Frontend**: React, TypeScript, Next.js, Styled-Components, Context API, Axios
+- **Backend**: Spring Boot, JPA
+- **Database**: MySQL 8.0
+- **Build Tool**: Gradle
+
+## 3. 주요 기능
+- **회원가입** : 이메일 및 비밀번호를 통한 사용자 등록
+- **상품 목록/상세** : 상품 목록조회, 상품 상세페이지 보기
+- **장바구니 담기/삭제** : 상품 장바구니, 상품 삭제 기능
+
+## 4. 주요 화면
+### 홈페이지
+![홈페이지](https://github.com/jjjyaa/self-project/blob/master/img/homepage.PNG)
+
+### 회원가입
+![회원가입](https://github.com/jjjyaa/self-project/blob/master/img/signup.PNG)
+
+### 로그인
+![로그인](https://github.com/jjjyaa/self-project/blob/master/img/login.PNG)
+
+### 마이페이지
+![마이 페이지](https://github.com/jjjyaa/self-project/blob/master/img/mypage.PNG)
+
+### 상품 목록
+![상품 목록](https://github.com/jjjyaa/self-project/blob/master/img/productlist.PNG)
+
+### 상품 상세
+![상품 상세](https://github.com/jjjyaa/self-project/blob/master/img/productdetil.PNG)
+
+### 장바구니
+![장바구니](https://github.com/jjjyaa/self-project/blob/master/img/cart.PNG)
+
