@@ -35,24 +35,30 @@
 - **장바구니 담기/삭제** : 상품 장바구니, 상품 삭제 기능
 
 ## 4. 주요 화면
-### 홈페이지
-![홈페이지](https://github.com/jjjyaa/self-project/blob/master/img/homepage.PNG)
+### 🏠 홈페이지  
+![홈페이지](https://raw.githubusercontent.com/jjjyaa/shop-project/master/img/homepage.png)
 
-### 회원가입
-![회원가입](https://github.com/jjjyaa/self-project/blob/master/img/signup.PNG)
+### 🛒 장바구니  
+![장바구니](https://raw.githubusercontent.com/jjjyaa/shop-project/master/img/cart.png)
 
-### 로그인
-![로그인](https://github.com/jjjyaa/self-project/blob/master/img/login.PNG)
+### 🔐 로그인  
+![로그인](https://raw.githubusercontent.com/jjjyaa/shop-project/master/img/login.png)
 
-### 마이페이지
-![마이 페이지](https://github.com/jjjyaa/self-project/blob/master/img/mypage.PNG)
+### 👤 마이페이지  
+![마이페이지](https://raw.githubusercontent.com/jjjyaa/shop-project/master/img/mypage.png)
 
-### 상품 목록
-![상품 목록](https://github.com/jjjyaa/self-project/blob/master/img/productlist.PNG)
+### 📝 회원정보 수정  
+![회원정보수정](https://raw.githubusercontent.com/jjjyaa/shop-project/master/img/mypageedit.png)
 
-### 상품 상세
-![상품 상세](https://github.com/jjjyaa/self-project/blob/master/img/productdetil.PNG)
+### 📄 상품 목록  
+![상품 목록](https://raw.githubusercontent.com/jjjyaa/shop-project/master/img/productlist.png)
 
-### 장바구니
-![장바구니](https://github.com/jjjyaa/self-project/blob/master/img/cart.PNG)
+### 📄 상품 상세  
+![상품 상세](https://raw.githubusercontent.com/jjjyaa/shop-project/master/img/productdetil.png)
 
+### 🧍 회원가입  
+![회원가입](https://raw.githubusercontent.com/jjjyaa/shop-project/master/img/signup.png)
+<<<<<<< HEAD
+
+=======
+>>>>>>> 0ad08864b1fe9168cc9a94290bab3be36f89eec2
