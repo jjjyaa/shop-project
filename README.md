@@ -12,4 +12,13 @@
 - **Spring Boot 기반 RESTful API** 상품조회, 주문, 회원 관련 데이터를 처리하는 API 서버 구성 
 - **스타일링 프레임워크 사용** styled-components의 컴포넌트 기반 스타일을 조합
 - **도메인 분리 구조** `/front`와 `/back/minishop`으로 프론트/백엔드 완전 분리 → 유지보수와 배포에 유리
--
+
+## 1. 개발 환경
+| 구분 | 내용 |
+|------|------|
+| 운영체제 | Windows 11 / MacOS 개발환경 모두 가능 |
+| 백엔드 | Java 17, Spring Boot 3.4.4, Gradle |
+| 프론트엔드 | React 19, Next.js 15.3.1, styled-components, Tailwind CSS |
+| 패키지 관리 | Gradle (백엔드), npm (프론트엔드) |
+| 빌드 도구 | Gradle Wrapper, Next.js 빌드 명령어 |
+| 실행 방식 | 로컬에서 `npm run dev`, `gradlew bootRun`으로 실행 |
